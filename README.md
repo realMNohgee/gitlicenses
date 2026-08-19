@@ -1,4 +1,5 @@
 # GitLicenses 📜
+![CI](https://github.com/realMNohgee/gitlicenses/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Scan dependency files and extract license info.** Zero dependencies, pure Python stdlib.
 
